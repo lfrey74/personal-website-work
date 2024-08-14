@@ -2,15 +2,21 @@
 
 #### Description:
 
-This project will consist of building a website that includes a main
-index page which will have links to a few recipes.
+This project originated in The Odin Project online course. This
+repository is a personal branch of the project for development
+and practice of skills learned in the course.
 
-#### First Iteration
+#### First Upload
 
-The first iteration will be to build my HTML knowledge with little
-focus on visual appeal.
+The first upload included all files, with the main style.css updated
+in the Block and Inline section of the course. A new style.css file
+was created in the recipes subfolder to modify the style of the
+recipe pages, but was not part of the instructions. Rather, it was my
+first personal modifications to the website.
+
 
 #### Future Iterations
 
-This project will be styled with CSS in future lessons in The Odin
-Project.
+This project will be modified both through instructions in the
+course and with my own designs to further enhance my learning
+experience through continued practice.
